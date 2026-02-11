@@ -521,7 +521,7 @@ rules:
   # 📲 Facebook
   - GEOSITE,facebook,📲 Facebook
   # 📲 WhatsApp
-  - GEOSITE,whatsapp,📲 Facebook
+  - GEOSITE,whatsapp,📲 WhatsApp
   # 🍎 Apple
   - GEOSITE,apple@cn,DIRECT
   - GEOSITE,apple,🍎 Apple

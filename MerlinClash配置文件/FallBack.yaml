@@ -1,10 +1,9 @@
 # =======================================
-# Clash-Fallback 懒人配置-故转优化配置
-# sev7en的分享油管频道：https://www.youtube.com/@imrockwall/videos
+# Magic catling懒人配置
+# sev7en分享油管频道：https://www.youtube.com/@sev7enshare/videos
 # sev7en电报讨论群组：https://t.me/Sev7enshare
 # 推荐机场迷路指南：https://get.imfaner.com
 # =======================================
-
 port: 3333
 proxies:
   # 单个节点
@@ -684,6 +683,7 @@ rules:
   # 🐟 漏网之鱼
 
   - MATCH,🐟 漏网之鱼
+
 
 
 

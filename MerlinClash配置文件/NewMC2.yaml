@@ -1,7 +1,7 @@
 # 1. 订阅与节点下载设置
 proxy-providers:
   ReYY:
-    url: "https://sub1link.sub-sev7.cc/s/d3f466166ff11cc88ffe29d0dad67783" # 请在此处粘贴你的实际订阅链接
+    url: "https://xxxxxxxxx" # 请在此处粘贴你的实际订阅链接
     type: http
     interval: 86400
     health-check:
@@ -10,7 +10,7 @@ proxy-providers:
       interval: 300
     proxy: 直连      
   iFarCloud:
-    url: "https://ifaner.dd94wan.com/link/7YrDUQfBHYh1DFaT?clash=1" # 请在此处粘贴你的实际订阅链接
+    url: "https://xxxxxxxx" # 请在此处粘贴你的实际订阅链接
     type: http
     interval: 86400
     health-check:

@@ -635,7 +635,7 @@ rules:
   # 📲 Facebook
   - GEOSITE,facebook,📲 Facebook
   # 📲 WhatsApp
-  - GEOSITE,whatsapp,📲 Facebook
+  - GEOSITE,whatsapp,📲 WhatsApp
   # 🍎 Apple
   - GEOSITE,apple@cn,DIRECT
   - GEOSITE,apple,🍎 Apple
@@ -677,6 +677,7 @@ rules:
   # 🐟 漏网之鱼
 
   - MATCH,🐟 漏网之鱼
+
 
 
 
